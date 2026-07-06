@@ -13,8 +13,6 @@ function checknum(){
 
 }else{
   Para.innerText = 'The Number Is Odd!';
-  Para.style.color='green'
-  
 }
   
 }
